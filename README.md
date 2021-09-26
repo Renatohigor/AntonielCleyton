@@ -22,6 +22,23 @@
  ## Framework
    <img align="center" alt="Cleyton-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
 </div>
+
+## IT tools
+   <img align="center" alt="Cleyton-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
+</div>
+   <img align="center" alt="Cleyton-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
+</div>
+  <img align="center" alt="Cleyton-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+</div>
+  <img align="center" alt="Cleyton-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+<img align="center" alt="Cleyton-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+</div>
+<img align="center" alt="Cleyton-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+</div>
+<img align="center" alt="Cleyton-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg">
+</div>
+
   
  ## Operating system
    <img align="center" alt="Cleyton-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
